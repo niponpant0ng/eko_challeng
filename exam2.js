@@ -12,4 +12,5 @@ function formatWord(realWord) {
   
     return word
   })
+  .join("")
 }
